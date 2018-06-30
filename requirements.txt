@@ -1,12 +1,2 @@
-{
-  "name":"Mr. Bot",
-  "description":"Type @help to get started!",
-  "version":"0.0.0",
-  "main":"python mr-bot.py",
-  "scripts":{
-    "start":"python mr-bot.py"
-  },
-  "dependencies":{
-    "discord.py":"0.16.12"
-  }
-}
+discord
+asyncio
