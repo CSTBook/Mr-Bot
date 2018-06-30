@@ -1,1 +1,1 @@
-worker: python mr_bot.py
+worker: python mr-bot.py
